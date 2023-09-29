@@ -1,3 +1,7 @@
+# Inter Protocol Resources Wiki
+
+- [Inter Protocol Resources Wiki] (https://github.com/DCFoundation/resources/wiki/Inter-Protocol-Resources)
+
 # BLD Token Ecosystem Services
 
 *Below is a list of known token service providers that support BLD. If you know of any additional providers, then please comment them in and we will accept your changes. Please include a link to their site.*
